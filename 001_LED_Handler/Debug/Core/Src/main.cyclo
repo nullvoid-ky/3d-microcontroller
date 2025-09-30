@@ -1,0 +1,6 @@
+../Core/Src/main.c:191:13:set_array	2
+../Core/Src/main.c:200:13:set_led	1
+../Core/Src/main.c:212:5:main	3
+../Core/Src/main.c:284:6:SystemClock_Config	4
+../Core/Src/main.c:333:6:HAL_GPIO_EXTI_Callback	4
+../Core/Src/main.c:359:6:Error_Handler	1

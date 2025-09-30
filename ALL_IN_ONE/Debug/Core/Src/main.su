@@ -1,0 +1,11 @@
+../Core/Src/main.c:120:20:RGB_Set	16	static
+../Core/Src/main.c:125:20:RGB_SetPercent	32	static
+../Core/Src/main.c:141:13:set_led	24	static
+../Core/Src/main.c:157:5:main	32	static
+../Core/Src/main.c:313:6:SystemClock_Config	88	static
+../Core/Src/main.c:367:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/main.c:382:13:LED_FSM	40	static
+../Core/Src/main.c:402:13:uart_print_num	56	static
+../Core/Src/main.c:408:13:uart_print_stop	16	static
+../Core/Src/main.c:414:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:487:6:Error_Handler	4	static,ignoring_inline_asm
